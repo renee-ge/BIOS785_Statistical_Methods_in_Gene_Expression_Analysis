@@ -12,6 +12,15 @@ For prevention and treatment of this prevalent and dangerous disease, better und
 
 | Dataset Name | Database | Accession Number|
 |---|---|---|
-|Single-cell RNA-seq data of human liver 
-(17,810 cells from six healthy individuals profiled by Wang, ZY et al. and 157,619 cells from four healthy and three cirrhotic human livers of a public dataset)
-| ArrayExpress | E-MTAB-10553|
+|Single-cell RNA-seq data of human liver (17,810 cells from six healthy individuals profiled by Wang, ZY et al. and 157,619 cells from four healthy and three cirrhotic human livers of a public dataset)| ArrayExpress | E-MTAB-10553|
+| Bulk RNA-seq data of liver fibrosis mouse models (Mouse hepatic stellate cells in vivo and in vitro) | GEO Database | GSE116987 |
+| Human bulk RNA-seq data containing healthy normal weight (n=14) and obese (n=12) individuals, NAFL (n=15) and NASH (n=16) patients | GEO Databse | GSE126848 |
+
+## Methods
+
+Each of the datasets was first analyzed separately using appropriate preprocessing measures. In each dataset differential expression analysis was performed and common upregulated and downregulated genes between fibrotic and healthy cells among the four datasets were obtained. Gene ontology enrichment analysis was performed and the translatability of liver fibrosis associated genes between human and mouse models was discussed. 
+
+## Project Organization
+
+* Report.pdf contains the final written report detailing the full data, methods, analyses, and conclusions
+* 
